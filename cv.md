@@ -10,3 +10,6 @@
 Qualification: Technician
 - Belarusian National Technical University -  Faculty of Mechanics and Technology (2018-2021)  
 Qualification: Engineer
+---
+*Work experience*
+- Poduction Unitary Company "TSVETMET" - Structural engineer (2021-present)
