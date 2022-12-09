@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  display: flex;
+}
+
+.rightbox {
+  margin-left: 25px;
+  width: 80%;
+}
+
+.job {
+  padding-top: 17px;
+}
+
+.adress {
+  margin-top: 17px;
+}
+
+.contacts {
+  margin-top: 15px;
+  margin-bottom: 17px;
+}
+
+.education {
+  margin-bottom: 17px;
+}
+ul {
+  list-style-position: inside;
+}
+.foot {
+  position: fixed;
+  bottom: 0px;
+  left: 50%;
+  height: 30px;
+  width: 100%;
+}
