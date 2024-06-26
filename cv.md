@@ -11,3 +11,5 @@
 * Education:
 
   - Belarsian National Technical University
+
+* English Level: B2
