@@ -16,4 +16,4 @@
 
 * Code example:
   ` let sum = (a, b) => a + b;
-    alert( sum(2, 2));`
+alert( sum(2, 2));`
