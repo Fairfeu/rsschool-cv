@@ -1,3 +1,27 @@
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+
+  margin: 0 auto;
+}
+main {
+  /* margin: 0px auto; */
+  width: 1440px;
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+}
+
+.left-side {
+  width: 340px;
+  background: #9945ff14;
+}
 * {
-  margin: 0;
+  border: 1px solid black;
+}
+
+.right-side {
+  width: 340px;
 }
