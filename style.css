@@ -1,0 +1,47 @@
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+
+  margin: 0 auto;
+}
+main {
+  width: 1440px;
+  display: flex;
+  justify-content: center;
+  margin: 50px auto;
+}
+
+.left-side {
+  width: 340px;
+  background: #9945ff14;
+}
+
+.right-side {
+  width: 340px;
+  position: relative;
+  margin-left: 20px;
+}
+
+.svg-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  display: flex;
+  align-items: center;
+}
+.m-left {
+  margin-left: 20px;
+}
+.second-foot {
+  position: absolute;
+  left: 33%;
+  bottom: 0;
+}
+
+article {
+  margin-left: 20px;
+}
