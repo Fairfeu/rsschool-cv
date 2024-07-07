@@ -7,7 +7,6 @@
   margin: 0 auto;
 }
 main {
-  /* margin: 0px auto; */
   width: 1440px;
   display: flex;
   justify-content: center;
@@ -18,10 +17,27 @@ main {
   width: 340px;
   background: #9945ff14;
 }
-* {
-  border: 1px solid black;
-}
 
 .right-side {
   width: 340px;
+  position: relative;
+  margin-left: 20px;
+}
+
+.svg-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  display: flex;
+  align-items: center;
+}
+.m-left {
+  margin-left: 20px;
+}
+.second-foot {
+  position: absolute;
+  left: 33%;
+  bottom: 0;
 }
